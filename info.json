@@ -3,6 +3,7 @@
 	"version": "0.0.1",
 	"title": "Simply Gravel for Py",
 	"author": "TheDreadPirate, based on Simply Gravel by Chesapeake [moth.monster], PantherX",
+	"homepage": "https://github.com/derekbassett/simply-gravel-for-py",
 	"factorio_version": "2.1",
 	"dependencies": ["base >= 2.1", "pycoalprocessing >= 3.1", "! simply-gravel"],
 	"description": "Lets you place Pyanodon's gravel as a gravel floor tile. Stone is left alone. Uses textures from Dectorio. Licensed under GNU GPLv3."
