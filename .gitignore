@@ -1,0 +1,10 @@
+# Built release archives
+*.zip
+
+# Editor / OS clutter
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+Desktop.ini
+.DS_Store

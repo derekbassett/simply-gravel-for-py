@@ -1,0 +1,6 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.0.1
+Date: 2026-11-07
+  Compatibility:
+    - Compatible with Cleaned Concrete: placing gravel now removes decoratives when that mod is installed.
+      This only affects newly placed gravel; decoratives under existing gravel remain until the tile is re-placed.
