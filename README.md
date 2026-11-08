@@ -2,7 +2,7 @@
 
 Place Pyanodon's **gravel** on the ground as a gravel floor tile.
 
-This is a Pyanodon's version of [Simply Gravel](https://mods.factorio.com/mod/simply-gravel) by chesapeake. Py gives you plenty of gravel, so this mod lets you use it as flooring. Unlike Simply Gravel, base **stone** is left alone and is not placeable.
+This is a Pyanodon's version of [Simply Gravel](https://mods.factorio.com/mod/simply-gravel) by chesapeake. Py gives you actual gravel, so this mod lets you use it as flooring. Unlike Simply Gravel, base **stone** is left alone and is not placeable.
 
 ### Features
 - Place gravel straight from your inventory, like stone path. Mine it to get the gravel back.
