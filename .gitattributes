@@ -1,2 +1,6 @@
 # Keep line endings as-is (Factorio is fine with either)
 * -text
+
+# Keep repo-only files out of git archive release zips
+.gitignore export-ignore
+.gitattributes export-ignore
