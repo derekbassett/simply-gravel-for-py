@@ -1,6 +1,19 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.0.1
+Version: 1.0.0
 Date: 2026-11-07
+  Major Features:
+    - Initial release. Pyanodon's gravel item can now be placed as a gravel floor tile.
+  Features:
+    - Gravel tiles give 10% faster walking speed, the same as Simply Gravel.
+    - Mining a gravel tile returns the gravel item.
+    - Stone path, concrete and other floors draw above gravel, so they layer cleanly next to it.
+    - Base stone is left alone and keeps its normal behaviour (unlike Simply Gravel, which made stone placeable).
   Compatibility:
-    - Compatible with Cleaned Concrete: placing gravel now removes decoratives when that mod is installed.
-      This only affects newly placed gravel; decoratives under existing gravel remain until the tile is re-placed.
+    - Requires Pyanodon's Coal Processing (pycoalprocessing).
+    - Incompatible with Simply Gravel, which this mod replaces.
+    - Saves that used Simply Gravel are migrated automatically: existing Simply Gravel tiles become this mod's gravel tile.
+      Migrated tiles return gravel instead of stone when mined.
+    - Compatible with Cleaned Concrete: when it is installed, placing gravel removes decoratives underneath.
+      This only affects newly placed gravel; decoratives under gravel placed before Cleaned Concrete was added remain until the tile is re-placed.
+  Graphics:
+    - Gravel textures and thumbnail by PantherX, from Dectorio.
