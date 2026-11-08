@@ -9,6 +9,7 @@ This is a Pyanodon's version of [Simply Gravel](https://mods.factorio.com/mod/si
 - 10% walking speed bonus on gravel.
 - No new items, recipes or technology. Just the tile.
 - Stone path and concrete draw cleanly on top of gravel.
+- Placing gravel does not remove decoratives (grass, small rocks, etc.) underneath. If you want them cleared, use [Cleaned Concrete](https://mods.factorio.com/mod/CleanedConcrete).
 
 ### Compatibility
 - **Requires** Pyanodon's Coal Processing.
